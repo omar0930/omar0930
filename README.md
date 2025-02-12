@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am a fresh graduate with a passion for AI development and a robust foundation in various programming languages and technologies. Proficient in Python, I have experience in Java for desktop applications, as well as web and UI design using Figma. My skill set extends to SQL for database management and robotics projects utilizing Arduino. Additionally, I have hands-on experience with C#, C++, and MySQL. Currently, I am focused on enhancing my expertise in machine learning, aiming to become a proficient AI developer. My diverse project experience and commitment to continuous learning equip me to tackle complex challenges and innovate in the field of artificial intelligence.
+I am a fresh graduate with a background in AI development and a growing expertise in full-stack web development. While I have a strong foundation in Python, Java Script, PHP and C++ —with experience in machine learning, robotics (Arduino), and database management (SQL & MySQL)—I am currently shifting my focus to full-stack development. I am actively honing my skills in Laravel and the MERN stack to expand my opportunities in the tech industry.
+
+Passionate about problem-solving and innovation, I have worked on diverse projects, from AI-powered obstacle detection to clinic management systems with authentication and CRUD operations. My commitment to continuous learning drives me to build well-structured, visually appealing, and fully functional applications.
 
 
 ## 🌐 Socials:
