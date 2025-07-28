@@ -1,14 +1,13 @@
 # 💫 About Me
 
-I am a Computer Science and Artificial Intelligence graduate (Class of 2024) with a strong interest in **full‑stack web development**.  
-My journey started with **AI and machine learning projects**, then shifted toward building modern web applications using **Angular, .NET, and SQL**.  
+I am a Computer Science graduate (Class of 2024) with a strong focus on **full‑stack web development**.  
+While my academic background includes **Artificial Intelligence**, my current work revolves around building modern web applications using **Angular, .NET, and SQL**.
 
-- 👨‍🏫 Worked as a programming instructor for kids at iSchool, which enhanced my communication and mentoring skills.  
-- 💻 Built and deployed over **30+ projects** ranging from **AI models** (obstacle detection, ML tools) to **full web apps** (clinic management, game reviews, weather apps).  
-- 🌱 Currently focusing on **Angular** for frontend and **.NET** for backend while maintaining a solid grasp of **databases and API development**.  
-- 🚀 Passionate about problem‑solving, clean code, and creating functional, user‑friendly solutions.  
-- 🤝 Open to **internships and junior roles** where I can grow and contribute to impactful projects.
-
+- 👨‍🏫 Worked as a programming instructor for kids at iSchool, enhancing my communication and mentoring skills.  
+- 💻 Built and deployed over **30+ projects**, including **clinic management systems, game review platforms, and weather apps**.  
+- 🌱 Currently mastering **Angular** for frontend and **.NET** for backend, with solid experience in **databases and API development**.  
+- 🚀 Passionate about **problem‑solving, clean code, and creating user‑friendly solutions**.  
+- 🤝 Open to **internships and junior roles** where I can learn and contribute to impactful projects.
 
 
 ## 🌐 Socials:
