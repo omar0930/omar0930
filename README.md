@@ -1,5 +1,14 @@
-# 💫 About Me:
-I am a fresh AI graduate transitioning into full-stack web development. With a strong foundation in Python, JavaScript, PHP, and C++, I have experience in machine learning, robotics (Arduino), and database management (SQL & MySQL). Currently, I am mastering Laravel and soon exploring .NET and other backend , frontend frameworks.<br><br>Passionate about problem-solving and innovation, I have built projects ranging from AI-powered obstacle detection to a clinic management system with authentication and CRUD operations. I am committed to continuous learning and creating well-structured, visually appealing, and fully functional applications.
+# 💫 About Me
+
+I am a Computer Science and Artificial Intelligence graduate (Class of 2024) with a strong interest in **full‑stack web development**.  
+My journey started with **AI and machine learning projects**, then shifted toward building modern web applications using **Angular, .NET, and SQL**.  
+
+- 👨‍🏫 Worked as a programming instructor for kids at iSchool, which enhanced my communication and mentoring skills.  
+- 💻 Built and deployed over **30+ projects** ranging from **AI models** (obstacle detection, ML tools) to **full web apps** (clinic management, game reviews, weather apps).  
+- 🌱 Currently focusing on **Angular** for frontend and **.NET** for backend while maintaining a solid grasp of **databases and API development**.  
+- 🚀 Passionate about problem‑solving, clean code, and creating functional, user‑friendly solutions.  
+- 🤝 Open to **internships and junior roles** where I can grow and contribute to impactful projects.
+
 
 
 ## 🌐 Socials:
